@@ -1,5 +1,17 @@
 const myProjects = [
     {
+        name: "Calculator",
+        img: "https://advisorsavvy.com/wp-content/uploads/2020/03/calculator.png",
+        repository: "https://github.com/filipy94/calculator",
+        page: "https://filipy94.github.io/calculator/"
+    },
+    {
+        name: "Drum Machine",
+        img: "https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/c8/79/11/c87911ae-86d6-412d-6051-77aa128b4ff4/icon.png/1200x630bb.png",
+        repository: "https://github.com/filipy94/drum-machine",
+        page: "https://filipy94.github.io/drum-machine/"
+    },
+    {
         name: "Numeral-Roman Converter",
         img: "https://thumbs.dreamstime.com/b/seamless-set-background-roman-numerals-color-background-flat-design-vector-illustration-seamless-set-background-roman-101541888.jpg",
         repository: "https://github.com/filipy94/roman-number-converter",
@@ -25,7 +37,7 @@ const myProjects = [
     },
     {
         name: "Other Repositories",
-        img: "https://shifter.sapo.pt/wp-content/uploads/2020/04/GitHub-Gratuito-Shifter_01.jpg",
+        img: "https://github.githubassets.com/images/modules/open_graph/github-mark.png",
         repository: "https://github.com/filipy94?tab=repositories",
         page: "https://github.com/filipy94?tab=repositories"
     }
@@ -83,8 +95,8 @@ class Welcome extends React.Component {
     render() {
         return (
             <div id="welcome-section">
-                <h1>I am Filipy Dellagnolo</h1>
-                <h3>I am a civil engineer who graduated 4 years ago and decided this year to go deeper into program development studies, below you can check out some personal study projects:</h3>
+                <h1>I'm Filipy Dellagnolo,</h1>
+                <h3>a civil engineer who graduated 4 years ago and decided this year to change area, delving deeper into program development studies. Below you can check out some personal study projects:</h3>
             </div>
         );
     };

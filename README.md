@@ -1,6 +1,6 @@
 # My Portfolio :speech_balloon:
 
-This project is part of the FreeCodeCamp's Front End Certification.
+This project is a personal challange.
 It was built using [React](https://reactjs.org/) library.
 
 ## Functionality :white_check_mark:
