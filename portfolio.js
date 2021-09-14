@@ -1,5 +1,11 @@
 const myProjects = [
     {
+        name: "25 + 5 Clock",
+        img: "http://blog.klist.app/wp-content/uploads/2020/05/T%C3%A9cnica-pomodoro.jpg",
+        repository: "https://github.com/filipy94/react-clock",
+        page: "https://filipy94.github.io/react-clock/"
+    },
+    {
         name: "Calculator",
         img: "https://advisorsavvy.com/wp-content/uploads/2020/03/calculator.png",
         repository: "https://github.com/filipy94/calculator",
